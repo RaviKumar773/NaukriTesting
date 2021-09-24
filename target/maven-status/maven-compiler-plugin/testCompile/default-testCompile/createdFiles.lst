@@ -1,0 +1,4 @@
+com\qa\pages\FirstNaukriPages.class
+com\qa\testscripts\TestBase.class
+com\qa\testscripts\FirstNaukri.class
+com\qa\utility\Reporting.class

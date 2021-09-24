@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[course is matched]]>
+    </line>
+  </reporter-output>
+  <suite name="FirstNaukri Suite" duration-ms="64183" started-at="2021-09-21T23:17:21 IST" finished-at="2021-09-21T23:18:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64183" started-at="2021-09-21T23:17:21 IST" finished-at="2021-09-21T23:18:25 IST">
+      <class name="com.qa.testscripts.FirstNaukri">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testscripts.FirstNaukri@66480dd7]" name="setUp" is-config="true" duration-ms="7077" started-at="2021-09-21T23:17:21 IST" finished-at="2021-09-21T23:17:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.firstnaukri.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.qa.testscripts.FirstNaukri@66480dd7]" name="Login" duration-ms="56700" started-at="2021-09-21T23:17:28 IST" finished-at="2021-09-21T23:18:25 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[course is matched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testscripts.FirstNaukri@66480dd7]" name="tearDown" is-config="true" duration-ms="225" started-at="2021-09-21T23:18:25 IST" finished-at="2021-09-21T23:18:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testscripts.FirstNaukri -->
+    </test> <!-- Test -->
+  </suite> <!-- FirstNaukri Suite -->
+</testng-results>
